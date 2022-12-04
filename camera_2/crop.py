@@ -1,4 +1,5 @@
-import cv2
+все работает
+не наверное, а точно
 import os
 
 
@@ -18,3 +19,8 @@ def crop_all_in_folder():
 
 
 crop_all_in_folder()
+
+12312
+123456
+5858
+dgdgerfs
